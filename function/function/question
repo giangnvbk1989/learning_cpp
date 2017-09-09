@@ -1,0 +1,2 @@
+inline not clear, and can't compile properly with 
+g++ main.cpp math.cpp
