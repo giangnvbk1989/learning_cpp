@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
+    cout<<" a const header trial :" << c << endl;
+    // include header, will also pass const c, which defined in header ;
     int num = 0;
     int power = 0; 
 
