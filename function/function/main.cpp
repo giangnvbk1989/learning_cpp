@@ -1,5 +1,6 @@
 #include <iostream>
 #include "math.h"
+//#include "kerker.h" //kerker define a const c will collision with math.h
 using namespace std;
 
 int main() {
